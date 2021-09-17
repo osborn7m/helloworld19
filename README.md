@@ -1,2 +1,3 @@
-# helloworld19
- public
+# maven-project
+
+Simple Maven Project
